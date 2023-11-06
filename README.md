@@ -34,7 +34,14 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Thiago Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagooMedeiros&show_icons=true&theme=github_dark_dimmed)
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px">
 
-![Thiago Medeiros's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagooMedeiros&repo=EcommerceStore&theme=github_dark_dimmed)
+  ![Thiago Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagooMedeiros&show_icons=true&theme=github_dark_dimmed)
 
+  ![Thiago Medeiros's GitHub Streak](https://streak-stats.demolab.com/?user=ThiagooMedeiros&theme=github_dark_dimmed)
+
+  ![Thiago Medeiros's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiagooMedeiros&theme=github_dark_dimmed)
+
+
+  ![Thiago Medeiros's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagooMedeiros&repo=EcommerceStore&theme=github_dark_dimmed)
+</div>
